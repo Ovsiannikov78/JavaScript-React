@@ -65,6 +65,15 @@ typings/
 # Output of 'npm pack'
 *.tgz
 
+# IDEs and editors
+.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
 # Yarn Integrity file
 .yarn-integrity
 
